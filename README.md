@@ -35,9 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é uma aplicação para ajudar a rastrear os hábitos.
 
-
-
-
+- [Visite o projeto online](https://jaysonstn.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
